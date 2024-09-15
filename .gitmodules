@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/amitm144/iRoomieClient.git
+[submodule "server"]
+	path = server
+	url = https://github.com/amitm144/iRoommieServer.git
